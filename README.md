@@ -1,2 +1,2 @@
 # DNSDniffer
-DNS Sniffing tool
+DNS Poisoning tool
