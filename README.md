@@ -1,2 +1,2 @@
-# DNS　Poisnner
+# DNS Poisnner
 DNS Poisoning tool
